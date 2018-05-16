@@ -61,6 +61,7 @@ namespace MyBatisDataMapper
 
         static void Main(string[] args)
         {
+            // connect to git repository
 
             //Find Department
             string deptName = FindDepartment(1);
